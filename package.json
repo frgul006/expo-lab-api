@@ -1,0 +1,19 @@
+{
+  "name": "expo-lab-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frgul006/expo-lab-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frgul006/expo-lab-api/issues"
+  },
+  "homepage": "https://github.com/frgul006/expo-lab-api#readme"
+}
